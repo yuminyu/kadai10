@@ -9,7 +9,7 @@
 <p>ログインしていないと見れないページ自体は２回前の楽天apiを使った課題物のイニシャルページ。授業開始までに合体させたい。</p>
 
 <h1>参考にした情報</h1>
-<p>ベースは下記のサイト。もとよりエラー吐いた場所及びタイポによるエラーの調整<p>
+<p>ベース(という写経)は下記のサイト。もとよりエラー吐いた場所及びタイポによるエラーの調整<p>
 <p>https://jodiss-tri.medium.com/build-a-login-system-in-node-js-using-passport-js-and-mysql-52667cf3cc40</p>
 <p>他</p>
 <p>https://www.tutorialspoint.com/crypto-pbkdf2sync-method-in-node-js</p>
